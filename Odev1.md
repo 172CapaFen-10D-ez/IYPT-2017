@@ -23,5 +23,5 @@ Nasıl bir kuvvet bu mumu kaldırdı?
 Bunun sebebi gazla mı suyla mı yoksa mum ile alakalı mı?
 ## Kaynakçalar  
 https://doi.org/10.1080/00102200008947294
-
+http://aapt.scitation.org/
 http://onlinelibrary.wiley.com/doi/10.1002/nme.415/full
