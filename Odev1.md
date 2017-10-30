@@ -9,18 +9,19 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  (Yüzen Mum)
 ## Özet
-Deneyin yapılışı
-İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştırma konumuz. 
-Deneyin malzemeleri
+Deneyin yapılışı:
+İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştıracağız.
+Deneyin malzemeleri:
 Bir adet kap
 Kabın yarısını doldurucak bir miktar şu
 Mumu yakmak için kibrit 
 Yassı biçimde mum
 Ağırlıklar (bozuk para,taş vb.)
-Deneyin amacı
+Deneyin amacı:
 Yanma sonucu nasıl bir etki ağırlıklı olan bu mumun tekrardan yüzmesini sağladı?
 Nasıl bir kuvvet bu mumu kaldırdı?
 Bunun sebebi gazla mı suyla mı yoksa mum ile alakalı mı?
+Günlük hayatta bu deneyden yararlanılarak çeşitli araçlar yapılabilir mi?
 ## Kaynakçalar  
 https://doi.org/10.1080/00102200008947294
 http://aapt.scitation.org/
