@@ -13,7 +13,7 @@ Deneyin yapılışı:
 İçi su dolu kaba yassı mum bırakılır. Ağırlıksız haldeki mum su üstünde yüzer. Sırayla ve teker teker ağırlıklar mumun üzerine yerleştirilir. Bu esnada yüzmekte olan mum aldığı ağırlıklar sebebiyle yavaş yavaş batmaya başlar. Bir kibrit yardımıyla yakılan mum su üzerinde yükselir ve yeniden yüzmeye başlar. Bunun nedeni nedir araştıracağız.
 Deneyin malzemeleri:
 Bir adet kap
-Kabın yarısını doldurucak bir miktar şu
+Kabın yarısını doldurucak bir miktar su
 Mumu yakmak için kibrit 
 Yassı biçimde mum
 Ağırlıklar (bozuk para,taş vb.)
