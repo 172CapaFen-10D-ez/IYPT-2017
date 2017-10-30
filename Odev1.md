@@ -4,7 +4,7 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-10-D   | Eda Derin | 436
+10-D   | Eda Derin      | 436
 10-D   | Zeynep Dilay Kıstı |483
 
 #  (Yüzen Mum)
